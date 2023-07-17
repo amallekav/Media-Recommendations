@@ -39,13 +39,6 @@ Recommendations: Customize the recommend_reading() function to include specific 
 License
 This project is licensed under the MIT License.
 
-Feel free to modify, distribute, and use this code for personal and commercial purposes.
-
-Contribution
-Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
-
-Let's make this project even better together!
-
 Acknowledgments
 This project was inspired by the need to provide users with personalized reading recommendations based on their preferences. Special thanks to the open-source community for their invaluable contributions and inspiration.
 
